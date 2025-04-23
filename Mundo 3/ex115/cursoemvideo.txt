@@ -1,0 +1,5 @@
+Paulo;17
+Anna;18
+Raquel;9
+Adna;40
+desconhecido;32
